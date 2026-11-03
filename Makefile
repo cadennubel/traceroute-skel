@@ -6,7 +6,7 @@
 #  Copyright 2012 Colorado School of Mines. All rights reserved.
 #
 
-USERNAME = change-me
+USERNAME = cnubel
 
 CXX = g++
 LD = g++
